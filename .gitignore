@@ -11,4 +11,4 @@ __pycache__/
 # SQLite database (если не хочешь публиковать историю)
 currency.db
 
-.idea/git add
+.idea/
