@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database (если не хочешь публиковать историю)
+currency.db
+
+.idea/git add
